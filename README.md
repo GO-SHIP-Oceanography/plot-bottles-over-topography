@@ -14,4 +14,3 @@ To do that:
 The code is not smart enough to directly read from the .btl file that CTD spits out. (see example file in ./btl_raw)
 Instead, when I was at sea, I manually copied and pasted the data array from the .btl file and read that in matlab, and then took the depth column. 
 This should and can be improved in the future code.
-
